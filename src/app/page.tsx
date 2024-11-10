@@ -21,19 +21,16 @@ const Home = () => {
         <div className="text-center md:text-left">
           <h1 className="text-6xl font-bold text-teal-700">Welcome to My Portfolio!</h1> {/* Bigger heading */}
           <p className="mt-4 text-xl text-gray-700">
-            I&apos;m a passionate developer ready to take on new challenges and projects.
+          Hello! My name is Sanwal Iqbal, and I am currently a first-year student. I have a strong interest in coding
           </p>
           <p className="mt-2 text-lg text-gray-600">
-            With a strong foundation in web development, I specialize in creating dynamic and user-friendly websites.
-            I am proficient in technologies such as JavaScript, React, and Next.js. 
+          and have worked extensively with TypeScript. I also have experience with HTML, CSS, TailwindCSS 
           </p>
           <p className="mt-2 text-lg text-gray-600">
-            My goal is to build applications that not only look great but also provide seamless experiences for users.
-            I&apos;m constantly learning and exploring new tools to enhance my skills and bring innovative ideas to life.
+          and JavaScript, which allows me to build dynamic and visually appealing web applications.
           </p>
           <p className="mt-2 text-lg text-gray-600">
-            In my spare time, I enjoy collaborating on open-source projects, participating in hackathons, 
-            and contributing to the developer community. Let&apos;s connect and explore opportunities together!
+          As I continue to grow my skills, I am excited to explore new technologies and enhance my coding abilities further.
           </p>
         </div>
       </div>
